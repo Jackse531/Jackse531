@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Full-Stack Developer from Fort Worth, Texas</h3>
+<h3 align="center">A passionate Full-Stack Developer from Fort Worth, Texas!</h3>
 
 - 🔭 I’m currently working on [Intel Harvester](https://intelharvester.com)
 
