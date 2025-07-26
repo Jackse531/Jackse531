@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on [Intel Harvester](https://intelharvester.com)
 
 - 📫 How to reach me **developer@intelharvester.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
